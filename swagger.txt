@@ -1,0 +1,3 @@
+https://editor.swagger.io/
+
+Правильно указать путь в дополнительной переменной настройки windows к файлу swag.exe C:\Program Files\Go\github.com\bin
